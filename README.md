@@ -26,4 +26,5 @@ The model predicts a binary mask highlighting the human region in the image:
 2. Open the notebook: `Deep_Learning_with_PyTorch-ImageSegmentation.ipynb`
 3. Make sure `PROJECT_DIR` points to your project folder
 4. Run all cells
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ali-mohamadpour/human-segmentation-unet/blob/main/Deep_Learning_with_PyTorch-ImageSegmentation.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ali-mohamadpour/human-segmentation-unet/Human_Image_Segmentation_UNet_PyTorch.ipynb)
